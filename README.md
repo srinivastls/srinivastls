@@ -23,27 +23,14 @@ Feel free to connect with me here:
   <img height=140 src="https://github-readme-stats.vercel.app/api?username=srinivastls&hide_rank=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivastls&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
 <img height=140 src="https://streak-stats.demolab.com?user=srinivastls&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
 
 
-![Snake animation](https://github.com/srinivastls/srinivastls/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 </div>
-<!--
-**srinivastls/srinivastls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
