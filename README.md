@@ -1,6 +1,6 @@
 # Hi there <img src="wave.gif" width=33>
 
-I'm Lakshmi Srinivas, a final year computer science undergraduate  from [IIITDM Kancheepuram](https://www.iiitdm.ac.in/). ✌ Let's build something awesome!
+I'm Lakshmi Srinivas, Btech in Computer Science & Engineering with major in Artificial Intelligence undergraduate  from [IIITDM Kancheepuram](https://www.iiitdm.ac.in/). ✌ Let's build something awesome!
 
 Feel free to connect with me here:
 <div align="center">
