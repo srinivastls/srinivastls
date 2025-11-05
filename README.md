@@ -63,8 +63,7 @@ Integrates **retrieval-augmented generation**, **contextual summarization**, and
 
 - 🎓 Graduated **B.Tech (AI Major)** from IIITDM Kancheepuram — *May 2025*  
 - 🎯 **AIR 253 (GATE 2024)** in Data Science & Artificial Intelligence  
-- 💼 **AI Intern @ Vizzhy Inc (Hanooman.ai)**  
-- 📊 **Data Analyst Intern @ NoQs Digital**  
+- 💼 **AI Intern @ Vizzhy Inc (Hanooman.ai)** 
 - 🧑‍🏫 **Teaching Assistant @ IIITDM Kancheepuram** (Digital System Design)  
 - 💻 **Core Member @ Google Developer Student Club (GDSC)**  
 - 🥉 **3rd Place** in CP Contest at IIITDM Techfest  
@@ -83,7 +82,6 @@ Integrates **retrieval-augmented generation**, **contextual summarization**, and
   <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivastls&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
-<img height=140 src="https://streak-stats.demolab.com?user=srinivastls&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
 
 ---
 
