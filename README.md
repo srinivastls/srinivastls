@@ -24,7 +24,7 @@ Let’s connect and build something impactful together! 🚀
 
 - 🧩 Building **Agentic RAG Systems** with modular agents for document intelligence.  
 - ⚖️ Developing a **Legal AI Assistant** using Indian court judgment datasets (100K+ cases).  
-- 💬 Creating **local LLM chat systems** with **Milvus** and **LangChain**.   
+- 💬 Creating **local LLM chat systems** with **Milvus** and **LangChain**.    
 
 ---
 
