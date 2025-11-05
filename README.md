@@ -27,8 +27,8 @@ Let’s connect and build something impactful together! 🚀
 - 💬 Creating **local LLM chat systems** with **Milvus** and **LangChain**.    
 
 ---
-
-### 🚀 Featured Projects
+<!--
+ ### 🚀 Featured Projects
 
 #### 🧠 Advanced Agentic Document Intelligence System
 > A multi-agent system for **layout analysis**, **knowledge base construction**, and **agentic question answering** using LLMs and RAG pipelines.  
@@ -57,7 +57,7 @@ Integrates **retrieval-augmented generation**, **contextual summarization**, and
 **Tech:** Flutter, SQLite, Dart, CSV, SharePlus  
 🔗 [View Repository](https://github.com/srinivastls/smart-expense-tracker)
 
----
+--- -->
 
 ### 🏆 Highlights & Achievements
 
@@ -69,7 +69,7 @@ Integrates **retrieval-augmented generation**, **contextual summarization**, and
 - 🥉 **3rd Place** in CP Contest at IIITDM Techfest  
 - ⭐ 3★ Coder on **CodeChef** & **HackerRank**
 
----
+--- 
 
 ### 📈 GitHub Stats
 
