@@ -2,7 +2,7 @@
 
 I'm **Telaprolu Lakshmi Srinivas**, a **B.Tech graduate in Computer Science & Engineering with a Major in Artificial Intelligence** from [IIITDM Kancheepuram](https://www.iiitdm.ac.in/) — Class of **2025**. 🎓  
 
-I’m passionate about **AI systems**, **Retrieval-Augmented Generation (RAG)**, and **agentic architectures** that combine reasoning, retrieval, and multimodal understanding.  
+I’m passionate about **AI-driven systems**, **Retrieval-Augmented Generation (RAG)**, and **agentic architectures** that combine reasoning, retrieval, and multimodal understanding.  
 Let’s connect and build something impactful together! 🚀
 
 <div align="center">
@@ -22,9 +22,40 @@ Let’s connect and build something impactful together! 🚀
 
 ### 🧠 Current Focus
 
-- 🧩 Building **Agentic RAG Systems** with modular agents for document intelligence.  
+- 🧩 Building **Agentic RAG Systems** with modular agents for multimodal document intelligence.  
 - ⚖️ Developing a **Legal AI Assistant** using Indian court judgment datasets (100K+ cases).  
 - 💬 Creating **local LLM chat systems** with **Milvus** and **LangChain**.    
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 Advanced Agentic Document Intelligence System
+> A multi-agent system for **layout analysis**, **knowledge base construction**, and **agentic question answering** using LLMs and RAG pipelines.  
+**Tech:** LangChain, FastAPI, Milvus, PyTorch, Transformers  
+🔗 [View Repository](https://github.com/srinivastls/advanced-agentic-document-intelligence)
+
+---
+
+#### ⚖️ Legal AI Chatbot
+> A domain-specific **LLM-powered assistant** trained on 100K+ Indian legal judgments.  
+Integrates **retrieval-augmented generation**, **contextual summarization**, and **case-based reasoning**.  
+**Tech:** Milvus, LangChain, Hugging Face, PyTorch  
+🔗 [View Repository](https://github.com/srinivastls/legal-ai-chatbot)
+
+---
+
+#### 🕵️ Anti-Scam Communication Monitoring System (UC-3 Hackathon)
+> A prototype system to detect and monitor scam communications with **message classification**, **agentic decoy chats**, and **automated form generation (CrPC 91)**.  
+**Tech:** Streamlit, Flask REST API, Ollama LLMs, LangChain  
+🔗 [View Repository](https://github.com/srinivastls/anti-scam-monitoring)
+
+---
+
+#### 📊 Smart Expense Tracker (Mobile App)
+> A **Flutter + SQLite** mobile app to manage expenses with filtering, CSV export, location tagging, and interactive charts.  
+**Tech:** Flutter, SQLite, Dart, CSV, SharePlus  
+🔗 [View Repository](https://github.com/srinivastls/smart-expense-tracker)
 
 ---
 
@@ -56,9 +87,9 @@ Let’s connect and build something impactful together! 🚀
 
 ---
 
-### 🚀 Let's Collaborate!
+### 🤝 Let’s Collaborate
 
-I’m always excited to collaborate on **AI, RAG, and multimodal systems**.  
-If you’re exploring similar ideas — let’s talk! ✨
+I’m always open to collaborating on **LLM, RAG, and agentic systems** —  
+especially projects that push the boundaries of **contextual understanding** and **automation**. ✨
 
 </div>
