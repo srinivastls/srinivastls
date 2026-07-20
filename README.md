@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=SRINIVASTLS&fontColor=39FF14&fontSize=42&fontAlign=50&fontAlignY=45&desc=root%40ai-engineer%3A~%24%20building%20RAG%20%26%20Agentic%20Systems&descSize=16&descAlign=50&descAlignY=72&animation=fadeIn" alt="banner" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=guest%40srinivastls%3A~%24+whoami;Telaprolu+Lakshmi+Srinivas;M.Tech+AI+%40+IIT+Roorkee;Building+LLMs%2C+RAG+%26+Agentic+Systems;guest%40srinivastls%3A~%24+_" alt="Typing SVG" />
 
 </div>
@@ -127,5 +129,7 @@ $ echo "let's connect" | ./contact.sh
 <div align="center">
 
 `EOF`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer&fontColor=39FF14" alt="footer" width="100%"/>
 
 </div>
