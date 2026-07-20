@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:0d1117&text=TELAPROLU LAKSHMI SRINIVAS&fontColor=39FF14&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:0d1117&text=TELAPROLULAKSHMISRINIVAS&fontColor=39FF14&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=booting+developer+profile...;guest@srinivastls:~$+whoami;Telaprolu+Lakshmi+Srinivas;M.Tech+Artificial+Intelligence+@+IIT+Roorkee;Building+Production+LLMs+%7C+RAG+%7C+Agentic+AI"/>
 
