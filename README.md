@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=SRINIVASTLS&fontColor=39FF14&fontSize=42&fontAlign=50&fontAlignY=45&desc=root%40ai-engineer%3A~%24%20building%20RAG%20%26%20Agentic%20Systems&descSize=16&descAlign=50&descAlignY=72&animation=fadeIn" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=130&amp;section=header&amp;text=SRINIVASTLS&amp;fontColor=39FF14&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=root%40ai-engineer%3A~%24%20building%20RAG%20%26%20Agentic%20Systems&amp;descSize=16&amp;descAlign=50&amp;descAlignY=72&amp;animation=fadeIn" alt="banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=guest%40srinivastls%3A~%24+whoami;Telaprolu+Lakshmi+Srinivas;M.Tech+AI+%40+IIT+Roorkee;Building+LLMs%2C+RAG+%26+Agentic+Systems;guest%40srinivastls%3A~%24+_" alt="Typing SVG" />
 
@@ -111,10 +111,10 @@ $ ./github_stats.sh --live
 
 [![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsrinivastls&label=visitors&labelColor=%23000000&countColor=%2339FF14&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsrinivastls)
 
-<img height=140 src="https://github-readme-stats.vercel.app/api?username=srinivastls&hide_rank=true&show_icons=true&bg_color=000000&text_color=39FF14&icon_color=39FF14&title_color=39FF14&border_color=39FF14" alt="GitHub Stats">
-<img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivastls&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=000000&text_color=39FF14&icon_color=39FF14&title_color=39FF14&border_color=39FF14" alt="Top Languages">
+<img height=140 src="https://github-readme-stats.vercel.app/api?username=srinivastls&amp;hide_rank=true&amp;show_icons=true&amp;bg_color=000000&amp;text_color=39FF14&amp;icon_color=39FF14&amp;title_color=39FF14&amp;border_color=39FF14" alt="GitHub Stats">
+<img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivastls&amp;layout=compact&amp;exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&amp;bg_color=000000&amp;text_color=39FF14&amp;icon_color=39FF14&amp;title_color=39FF14&amp;border_color=39FF14" alt="Top Languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivastls&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=srinivastls&amp;background=000000&amp;stroke=39FF14&amp;ring=39FF14&amp;fire=39FF14&amp;currStreakLabel=39FF14&amp;sideLabels=39FF14&amp;dates=39FF14&amp;currStreakNum=39FF14&amp;sideNums=39FF14" alt="GitHub Streak">
 
 </div>
 
@@ -130,6 +130,6 @@ $ echo "let's connect" | ./contact.sh
 
 `EOF`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer&fontColor=39FF14" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=60&amp;section=footer&amp;fontColor=39FF14" alt="footer" width="100%"/>
 
 </div>
