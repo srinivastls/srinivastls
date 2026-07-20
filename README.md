@@ -1,87 +1,131 @@
-# Hi there <img src="wave.gif" width=33>
+<div align="center">
 
-I'm **Telaprolu Lakshmi Srinivas**, an **M.Tech student in Artificial Intelligence at [IIT Roorkee](https://www.iitr.ac.in/)**, with industry experience building **production-grade enterprise automation** and **AI-powered systems**. 🎓
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=guest%40srinivastls%3A~%24+whoami;Telaprolu+Lakshmi+Srinivas;M.Tech+AI+%40+IIT+Roorkee;Building+LLMs%2C+RAG+%26+Agentic+Systems;guest%40srinivastls%3A~%24+_" alt="Typing SVG" />
 
-I'm passionate about **LLMs**, **Retrieval-Augmented Generation (RAG)**, and **agentic architectures** that combine reasoning, retrieval, and real-world deployment.
-Let's connect and build something impactful together! 🚀
+</div>
+
+```ini
+┌──(guest㉿srinivastls)-[~]
+└─$ neofetch --minimal
+
+        .-"""-.        OS.......: IIT Roorkee // M.Tech AI (2026-2028)
+       /       \       Prev-OS..: IIITDM Kancheepuram // B.Tech CSE-AI
+       |  o   o |      Shell....: python3 --version 3.11
+       |    ∆    |     Uptime...: since Dec 2021
+       \  \___/  /     Role.....: AI & Enterprise Automation Analyst @ Accenture
+        '-.....-'      Packages.: LLMs, RAG, Agentic-AI, LoRA/PEFT, FastAPI
+                        Resolution: AIR 253 (GATE 2024, DS & AI)
+                        Theme....: catppuccin-mocha [GTK3]
+                        CPU......: Curiosity @ 100% util
+```
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/srinivastls/)](https://www.linkedin.com/in/srinivastls/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:lakshmisrinivas365@gmail.com)](mailto:lakshmisrinivas365@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-181825?style=for-the-badge&logo=vercel&logoColor=white&link=https://srinivastls.me/)](https://srinivastls.me/)
-[![GitHub Badge](https://img.shields.io/badge/github-181825?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/srinivastls)](https://github.com/srinivastls)
+[![Linkedin](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=39FF14&link=https://www.linkedin.com/in/srinivastls/)](https://www.linkedin.com/in/srinivastls/)
+[![Gmail](https://img.shields.io/badge/gmail-000000?style=flat-square&logo=gmail&logoColor=39FF14&link=mailto:lakshmisrinivas365@gmail.com)](mailto:lakshmisrinivas365@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=39FF14&link=https://srinivastls.me/)](https://srinivastls.me/)
+[![GitHub](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=39FF14&link=https://github.com/srinivastls)](https://github.com/srinivastls)
+
+</div>
 
 ---
 
-### ⚡️ Technologies & Tools ⚡️
-
-[![⚡️ Technologies ⚡️](https://github-readme-tech-stack.vercel.app/api/cards?title=%E2%9A%A1%EF%B8%8F+Tech+Stack+%E2%9A%A1%EF%B8%8F&align=center&titleAlign=center&lineCount=4&theme=catppuccin_mocha&width=650&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=python%2CPython%2C3776AB%3Bc%2CC%2CFCC624%3Bcplusplus%2CC%2B%2B%2C00599C%3Btypescript%2CTypeScript%2C3178C6%3B&line2=pytorch%2CPyTorch%2CEE4C2C%3Btensorflow%2CTensorFlow%2CFF6F00%3Btransformers%2CHugging+Face%2CFFD43B%3Blangchain%2CLangChain%2C1C3C3C%3B&line3=fastapi%2CFastAPI%2C009688%3Bflask%2CFlask%2C000000%3Bmilvus%2CMilvus%2C0099CC%3Bsqlite%2CSQLite%2C003B57%3B&line4=googlecloud%2CGCP%2C4285F4%3Bdocker%2CDocker%2C2496ED%3Bflutter%2CFlutter%2C02569B%3Bgit%2CGit%2CF05032)](#)
-
----
-
-### 🧠 Current Focus
-
-- 🎓 Pursuing **M.Tech in AI at IIT Roorkee**, researching **trustworthy AI** and **intelligent agentic systems**.
-- 🧩 Building **Agentic RAG systems** that combine LLM reasoning with retrieval over large, domain-specific corpora.
-- ⚖️ Continuing work on **NyayaMitra**, a legal AI assistant built over 200K+ Indian court judgments, published at **MIKE 2025**.
-- 🛠️ Maintaining **cp-snippets**, an open-source Python library published on PyPI for competitive-programming prep.
+```bash
+$ cat about.md
+```
+> M.Tech student in Artificial Intelligence at IIT Roorkee, building production-grade LLM and RAG
+> systems that bridge research with real-world deployment. Published researcher in legal-domain AI
+> retrieval. Currently automating enterprise infra @ Accenture and shipping side projects on PyPI
+> and Google Play.
 
 ---
 
-### 🚀 Featured Projects
+```bash
+$ cat tech_stack.yaml
+```
 
-#### ⚖️ NyayaMitra — RAG-based Legal AI Assistant
-> An AI-powered legal assistant integrating **LLMs**, **RAG**, and **LoRA/PEFT fine-tuning** (Phi-3 Mini) over 200,000+ Indian court judgments for context-aware legal QA and case retrieval. Achieved up to 70% reduction in legal research time. **Published at MIKE 2025.**
-**Tech:** Python, FastAPI, RAG, Phi-3 Mini, Milvus, BAAI/bge-large-en, GCP
-🔗 [View Repository](https://github.com/srinivastls/NyayaMitra)
+<div align="center">
 
-#### 🕵️ AI-Powered Scam Detection & Investigation System (Section 91 CrPC)
-> An investigation platform using **GPT-4o** and **RoBERTa** to analyze chat conversations, detect scammers, and auto-generate structured digital evidence — with AI-driven decoy agents and 40+ FastAPI REST APIs.
-**Tech:** Python, FastAPI, Azure OpenAI (GPT-4o), RoBERTa, Transformers
-🔗 [View Repository](https://github.com/srinivastls/91-crpc)
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=%24+tech_stack&align=center&titleAlign=center&lineCount=4&theme=github_dark&width=650&bg=%23000000&badge=%230d0d0d&border=%2339FF14&titleColor=%2339FF14&line1=python%2CPython%2C39FF14%3Bc%2CC%2C39FF14%3Bcplusplus%2CC%2B%2B%2C39FF14%3Btypescript%2CTypeScript%2C39FF14%3B&line2=pytorch%2CPyTorch%2C39FF14%3Btensorflow%2CTensorFlow%2C39FF14%3Btransformers%2CHugging+Face%2C39FF14%3Blangchain%2CLangChain%2C39FF14%3B&line3=fastapi%2CFastAPI%2C39FF14%3Bflask%2CFlask%2C39FF14%3Bmilvus%2CMilvus%2C39FF14%3Bsqlite%2CSQLite%2C39FF14%3B&line4=googlecloud%2CGCP%2C39FF14%3Bdocker%2CDocker%2C39FF14%3Bflutter%2CFlutter%2C39FF14%3Bgit%2CGit%2C39FF14)](#)
 
-#### 📦 cp-snippets — Competitive Programming Library
-> An open-source, MIT-licensed **Python package** of reusable CP snippets (arrays, DP, graphs, strings, trees, bit manipulation) for ICPC/Codeforces/LeetCode/GATE prep, with auto-generated docs via MkDocs.
-**Tech:** Python, PyPI, MkDocs
-🔗 [View on PyPI](https://pypi.org/project/cp-snippets/) · [View Repository](https://github.com/srinivastls/cp_snippets)
-
-#### 📊 Smart Expense Tracker (Mobile App)
-> A fully offline, privacy-first **Flutter + SQLite** expense tracker — no ads, no sign-up, no data collection — with category filters, visual spending charts, and CSV export.
-**Tech:** Flutter, SQLite
-🔗 [View on Google Play](https://play.google.com/store/apps/details?id=com.artly.expense_tracker)
+</div>
 
 ---
 
-### 🏆 Highlights & Achievements
+```bash
+$ ls -la ~/projects/
+```
 
-- 🎓 Pursuing **M.Tech in Artificial Intelligence** at **IIT Roorkee** (2026–2028)
-- 🎯 **AIR 253 (GATE 2024)** in Data Science & Artificial Intelligence — score 712
-- 📄 **Published researcher** — *AI-Powered Legal Assistant and RAG-Based Case Retrieval System*, MIKE 2025
-- 💼 **AI & Enterprise Automation Analyst @ Accenture** — cut infra patching effort by ~80% via Python automation
-- 💼 **AI Intern @ Vizzhy Inc (Hanooman.ai)** — fine-tuned LLMs, built FastAPI services for DARPG
-- 🧑‍🏫 **Teaching Assistant @ IIITDM Kancheepuram** (Data Structures, Computer Organization, Digital System Design)
-- 🚀 **Founder & Head, Developers Club @ IIITDM Kancheepuram** — organized Vashisht Hackathon 1.0 & 2.0
-- 📦 Published **cp-snippets** on PyPI and **Smart Expense Tracker** on Google Play
+**`NyayaMitra/`** — RAG-based Legal AI Assistant
+```
+Semantic retrieval over 200K+ Indian court judgments (BAAI/bge-large-en + Milvus).
+Phi-3 Mini fine-tuned with LoRA/PEFT. 70% cut in legal research time. Published @ MIKE 2025.
+stack: Python · FastAPI · RAG · Milvus · GCP        → github.com/srinivastls/NyayaMitra
+```
+
+**`91-crpc/`** — AI-Powered Scam Detection & Investigation System
+```
+GPT-4o + RoBERTa pipeline to flag scam chats, auto-generate structured digital evidence,
+and run AI decoy conversations. 40+ FastAPI REST endpoints.
+stack: Python · FastAPI · GPT-4o · RoBERTa           → github.com/srinivastls/91-crpc
+```
+
+**`cp-snippets/`** — Competitive Programming Toolkit
+```
+MIT-licensed Python package on PyPI: arrays, DP, graphs, strings, trees, bit tricks.
+Auto-generated docs via MkDocs + GitHub Actions.
+stack: Python · PyPI · MkDocs           → pypi.org/project/cp-snippets · github.com/srinivastls/cp_snippets
+```
+
+**`smart-expense-tracker/`** — Offline-First Finance App
+```
+Fully offline Flutter + SQLite expense tracker. No ads, no login, no data collection.
+Category filters, spending charts, CSV export.
+stack: Flutter · SQLite                 → play.google.com/store/apps/details?id=com.artly.expense_tracker
+```
 
 ---
 
-### 📈 GitHub Stats
-
-[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsrinivastls&label=Profile%20Views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsrinivastls)
-
-<a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api?username=srinivastls&hide_rank=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
-</a>
-<a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivastls&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
-</a>
+```bash
+$ cat achievements.log
+```
+```diff
++ [2026] M.Tech in Artificial Intelligence @ IIT Roorkee
++ [2025] Published: "AI-Powered Legal Assistant and RAG-Based Case Retrieval System" @ MIKE 2025
++ [2024] AIR 253 in GATE (Data Science & AI) — score 712
++ [2025-26] AI & Enterprise Automation Analyst @ Accenture — cut infra patching effort by ~80%
++ [2024] AI Intern @ Vizzhy Inc (Hanooman.ai) — fine-tuned LLMs, shipped FastAPI services
++ [2021-25] Founder & Head, Developers Club @ IIITDM Kancheepuram — ran Vashisht Hackathon 1.0 & 2.0
++ [ONGOING] cp-snippets on PyPI · Smart Expense Tracker on Google Play
+```
 
 ---
 
-### 🤝 Let's Collaborate
+```bash
+$ ./github_stats.sh --live
+```
 
-I'm always open to collaborating on **LLM, RAG, and agentic systems** —
-especially projects that push the boundaries of **contextual understanding**, **retrieval**, and **real-world deployment**. ✨
+<div align="center">
+
+[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsrinivastls&label=visitors&labelColor=%23000000&countColor=%2339FF14&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsrinivastls)
+
+<img height=140 src="https://github-readme-stats.vercel.app/api?username=srinivastls&hide_rank=true&show_icons=true&bg_color=000000&text_color=39FF14&icon_color=39FF14&title_color=39FF14&border_color=39FF14" alt="GitHub Stats">
+<img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivastls&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=000000&text_color=39FF14&icon_color=39FF14&title_color=39FF14&border_color=39FF14" alt="Top Languages">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivastls&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="GitHub Streak">
+
+</div>
+
+---
+
+```bash
+$ echo "let's connect" | ./contact.sh
+```
+> Open to collaborating on **LLM, RAG, and agentic systems** — especially work that pushes
+> contextual understanding, retrieval, and real-world deployment forward. ✨
+
+<div align="center">
+
+`EOF`
 
 </div>
