@@ -8,10 +8,6 @@
 </div>
 
 
-guest@srinivastls:~$ _
-```
-
-
 
 ```console
 guest@srinivastls:~$ sudo systemctl status profile
@@ -23,7 +19,7 @@ guest@srinivastls:~$ sudo systemctl status profile
      Role: AI/ML Engineer & AI Automation Developer
      Current: M.Tech Artificial Intelligence @ IIT Roorkee
      Goal: Build AI systems that solve real-world problems.
-````
+```
 
 ---
 
