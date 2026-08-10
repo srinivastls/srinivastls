@@ -11,8 +11,6 @@
 guest@srinivastls:~$ _
 ```
 
-```
-```
 
 
 ```console
@@ -256,7 +254,7 @@ Publish meaningful research.
 Ship products people actually use.
 Keep learning.
 
-
+```
 
 
 <div align="center">
