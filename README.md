@@ -151,6 +151,3 @@ Ship products people actually use.
 Keep learning.
 ```
 
-<p align="center">
-  <sub>Premium terminal-style profile banner · dark/light theme aware · self-contained SVG · SMIL animation only</sub>
-</p>
