@@ -1,147 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
-     role="img" aria-label="Professional profile banner for Telaprolu Lakshmi Srinivas, AI Engineer focused on LLMs, RAG, Agentic AI and AI automation.">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#030712"/>
-      <stop offset="0.55" stop-color="#07111F"/>
-      <stop offset="1" stop-color="#0B1220"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7C3AED"/>
-      <stop offset="0.52" stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#10B981"/>
-      <animate attributeName="x1" values="0;0.2;0" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;0.8;1" dur="9s" repeatCount="indefinite"/>
-    </linearGradient>
-    <radialGradient id="glowA" cx="30%" cy="35%" r="70%">
-      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="85%" cy="75%" r="60%">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.15"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-opacity="0.28" stroke-width="1"/>
-    </pattern>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.32"/>
-    </filter>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <style>
-      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
-      .title { font-size: 34px; font-weight: 750; letter-spacing: -0.5px; }
-      .h { font-size: 14px; font-weight: 700; letter-spacing: 2.2px; }
-      .body { font-size: 15px; }
-      .small { font-size: 12px; }
-      .label { font-size: 12px; font-weight: 700; letter-spacing: 1.4px; }
-      .value { font-size: 14px; }
-    </style>
-  </defs>
+ role="img" aria-label="Telaprolu Lakshmi Srinivas — independent AI Engineer building production LLM systems, RAG architectures, agentic workflows and AI automation.">
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#A3E635"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+    <animate attributeName="x1" values="0;.25;0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="78%" cy="18%" r="70%">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0.12"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#27272A" stroke-width="1" opacity=".28"/>
+  </pattern>
+  <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000" flood-opacity="0.35"/></filter>
+  <style>
+    .mono {font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    .sans {font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  </style>
+</defs>
 
-  <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#bg)" stroke="#1E293B" stroke-width="1.5"/>
-  <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#grid)" opacity="0.34"/>
-  <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#glowA)"/>
-  <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#glowB)"/>
+<rect x="10" y="10" width="1160" height="590" rx="24" fill="#050505" stroke="#27272A"/>
+<rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#grid)"/>
+<rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#glow)"/>
 
-  <!-- terminal chrome -->
-  <rect x="10" y="10" width="1160" height="48" rx="24" fill="#0F172A" fill-opacity="0.82"/>
-  <rect x="10" y="34" width="1160" height="24" fill="#0F172A" fill-opacity="0.82"/>
-  <circle cx="38" cy="34" r="6" fill="#FF5F57"/>
-  <circle cx="60" cy="34" r="6" fill="#FEBC2E"/>
-  <circle cx="82" cy="34" r="6" fill="#28C840"/>
-  <text x="108" y="39" class="mono small" fill="#94A3B8">srinivastls@profile:~</text>
-  <text x="1058" y="39" class="mono small" text-anchor="end" fill="#10B981">[ ONLINE ]</text>
+<!-- top bar -->
+<rect x="10" y="10" width="1160" height="54" rx="24" fill="#0B0B0D" opacity=".96"/>
+<circle cx="38" cy="37" r="5" fill="#FF5F57"/><circle cx="58" cy="37" r="5" fill="#FEBC2E"/><circle cx="78" cy="37" r="5" fill="#28C840"/>
+<text x="104" y="42" class="mono" font-size="12" fill="#8B8D98">srinivastls / engineering.profile</text>
+<text x="1128" y="42" class="mono" font-size="11" text-anchor="end" fill="#A3E635">● AVAILABLE FOR SELECT PROJECTS</text>
 
-  <!-- left visual identity -->
-  <rect x="34" y="82" width="402" height="486" rx="20" fill="#0F172A" fill-opacity="0.64"
-        stroke="#1E293B" stroke-width="1.2" filter="url(#shadow)"/>
-  <text x="62" y="116" class="mono h" fill="#22D3EE">VISUAL.MAP</text>
-  <line x1="62" y1="128" x2="408" y2="128" stroke="#22D3EE" stroke-opacity="0.25"/>
+<!-- left -->
+<rect x="34" y="88" width="390" height="482" rx="20" fill="#0B0B0D" stroke="#27272A" filter="url(#shadow)"/>
+<text x="62" y="121" class="mono" font-size="11" letter-spacing="2.5" fill="#8B8D98">INDEPENDENT / AI ENGINEERING</text>
 
-  <!-- terminal-style abstract identity glyph; no personal raster image supplied -->
-  <g class="mono" fill="#22D3EE" opacity="0.90">
-    <text x="78" y="177" font-size="16">          .·:+*#%@@%#*+:.          </text>
-    <text x="78" y="195" font-size="16">       .:+#@@@@@@@@@@@@%*:.       </text>
-    <text x="78" y="213" font-size="16">     :*%@@@@@@@@@@@@@@@@@@%*:     </text>
-    <text x="78" y="231" font-size="16">    +%@@@@%*+::::+*%@@@@@@@%+    </text>
-    <text x="78" y="249" font-size="16">   *@@@@@+.  .:::.  .+@@@@@@@*   </text>
-    <text x="78" y="267" font-size="16">  :@@@@@+  :#@@@@@#:  +@@@@@@@:  </text>
-    <text x="78" y="285" font-size="16">  %@@@@@.  %@@@@@@@%  .@@@@@@@%  </text>
-    <text x="78" y="303" font-size="16">  @@@@@@.  %@@@#@@@%  .@@@@@@@%  </text>
-    <text x="78" y="321" font-size="16">  %@@@@@+  :#@@@@@#:  +@@@@@@@%  </text>
-    <text x="78" y="339" font-size="16">  :@@@@@@+.  .::::.  .+@@@@@@@@:  </text>
-    <text x="78" y="357" font-size="16">   *@@@@@@%*::::::::*%@@@@@@@@*   </text>
-    <text x="78" y="375" font-size="16">    +%@@@@@@@@@@@@@@@@@@@@@@%+    </text>
-    <text x="78" y="393" font-size="16">     :*%@@@@@@@@@@@@@@@@@@%*:     </text>
-    <text x="78" y="411" font-size="16">       .:+#%@@@@@@@@%#*+:.       </text>
-  </g>
-  <g opacity="0.16" stroke="#22D3EE" stroke-width="1">
-    <line x1="60" y1="176" x2="408" y2="176">
-      <animate attributeName="y1" values="176;412;176" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="y2" values="176;412;176" dur="7s" repeatCount="indefinite"/>
-    </line>
-  </g>
+<text x="62" y="174" class="sans" font-size="40" font-weight="750" fill="#F5F5F5">TELAPROLU</text>
+<text x="62" y="214" class="sans" font-size="40" font-weight="750" fill="#F5F5F5">LAKSHMI</text>
+<text x="62" y="254" class="sans" font-size="40" font-weight="750" fill="#F5F5F5">SRINIVAS</text>
 
-  <text x="62" y="452" class="mono label" fill="#94A3B8">IDENTITY</text>
-  <text x="62" y="478" class="mono body" fill="#F8FAFC">AI Engineer</text>
-  <text x="62" y="500" class="mono body" fill="#22D3EE">LLMs · RAG · Agentic AI</text>
-  <text x="62" y="522" class="mono body" fill="#94A3B8">AI automation · NLP · Research</text>
-  <text x="62" y="548" class="mono small" fill="#10B981">~/profile $ build --ship</text>
+<line x1="62" y1="278" x2="392" y2="278" stroke="url(#accent)" stroke-width="2"/>
 
-  <!-- right system panel -->
-  <rect x="458" y="82" width="688" height="486" rx="20" fill="#111827" fill-opacity="0.62"
-        stroke="#1E293B" stroke-width="1.2" filter="url(#shadow)"/>
-  <text x="492" y="116" class="mono h" fill="#22D3EE">SYSTEM.INFO</text>
-  <text x="1112" y="116" class="mono small" text-anchor="end" fill="#94A3B8">profile.sh</text>
-  <line x1="492" y1="128" x2="1112" y2="128" stroke="#1E293B"/>
+<text x="62" y="310" class="mono" font-size="16" fill="#A3E635">AI SYSTEMS ENGINEER</text>
+<text x="62" y="338" class="sans" font-size="15" fill="#8B8D98">Production LLM systems, retrieval</text>
+<text x="62" y="360" class="sans" font-size="15" fill="#8B8D98">architectures, intelligent agents</text>
+<text x="62" y="382" class="sans" font-size="15" fill="#8B8D98">and enterprise automation.</text>
 
-  <text x="492" y="158" class="mono small" fill="#94A3B8">srinivastls@profile:~$ ./profile.sh</text>
+<!-- abstract system mark instead of a supplied portrait -->
+<g transform="translate(62 418)">
+  <rect x="0" y="0" width="330" height="100" rx="12" fill="#101114" stroke="#27272A"/>
+  <text x="18" y="25" class="mono" font-size="10" fill="#8B8D98">SYSTEMS / LLM / RAG / AGENTS</text>
+  <path d="M20 68 H82 L108 48 H166 L194 72 H252 L276 48 H310" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="20" cy="68" r="4" fill="#A3E635"/><circle cx="108" cy="48" r="4" fill="#22D3EE"/><circle cx="194" cy="72" r="4" fill="#A3E635"/><circle cx="276" cy="48" r="4" fill="#22D3EE"/>
+</g>
+<text x="62" y="548" class="mono" font-size="11" fill="#8B8D98">$ build --ship --repeat</text>
 
-  <g class="mono">
-    <text x="492" y="198" class="label" fill="#94A3B8">NAME</text>
-    <text x="638" y="198" class="value" fill="#F8FAFC">Telaprolu Lakshmi Srinivas</text>
+<!-- right -->
+<rect x="446" y="88" width="700" height="482" rx="20" fill="#0B0B0D" stroke="#27272A" filter="url(#shadow)"/>
+<text x="478" y="122" class="mono" font-size="11" letter-spacing="2.5" fill="#8B8D98">SYSTEM.IDENTITY</text>
+<text x="1114" y="122" class="mono" font-size="11" text-anchor="end" fill="#A3E635">ONLINE</text>
+<line x1="478" y1="138" x2="1114" y2="138" stroke="#27272A"/>
 
-    <text x="492" y="232" class="label" fill="#94A3B8">ROLE</text>
-    <text x="638" y="232" class="value" fill="#22D3EE">AI Engineer · AI/ML Engineer</text>
+<text x="478" y="170" class="mono" font-size="12" fill="#8B8D98">user@srinivastls:~$ ./profile.sh</text>
 
-    <text x="492" y="266" class="label" fill="#94A3B8">CURRENT</text>
-    <text x="638" y="266" class="value" fill="#F8FAFC">M.Tech Artificial Intelligence @ IIT Roorkee</text>
+<g class="mono">
+<text x="478" y="210" font-size="11" fill="#8B8D98" letter-spacing="1.5">ROLE</text>
+<text x="640" y="210" font-size="15" fill="#F5F5F5">AI Engineer · AI/ML Engineer</text>
 
-    <text x="492" y="300" class="label" fill="#94A3B8">EXPERIENCE</text>
-    <text x="638" y="300" class="value" fill="#F8FAFC">Accenture · AI &amp; Enterprise Automation</text>
+<text x="478" y="244" font-size="11" fill="#8B8D98" letter-spacing="1.5">CURRENT</text>
+<text x="640" y="244" font-size="15" fill="#F5F5F5">M.Tech Artificial Intelligence @ IIT Roorkee</text>
 
-    <text x="492" y="334" class="label" fill="#94A3B8">FOCUS</text>
-    <text x="638" y="334" class="value" fill="#F8FAFC">LLMs · RAG · Agentic AI · NLP</text>
+<text x="478" y="278" font-size="11" fill="#8B8D98" letter-spacing="1.5">EXPERIENCE</text>
+<text x="640" y="278" font-size="15" fill="#F5F5F5">Accenture · AI &amp; Enterprise Automation</text>
 
-    <text x="492" y="368" class="label" fill="#94A3B8">STACK</text>
-    <text x="638" y="368" class="value" fill="#F8FAFC">Python · PyTorch · Transformers · FastAPI</text>
-    <text x="638" y="389" class="value" fill="#F8FAFC">Milvus · FAISS · Docker · Kubernetes · GCP</text>
+<text x="478" y="312" font-size="11" fill="#8B8D98" letter-spacing="1.5">FOCUS</text>
+<text x="640" y="312" font-size="15" fill="#A3E635">LLMs · RAG · Agentic AI · NLP</text>
+</g>
 
-    <text x="492" y="423" class="label" fill="#94A3B8">BUILDING</text>
-    <text x="638" y="423" class="value" fill="#F8FAFC">NyayaMitra · 91-crpc · cp_snippets</text>
-  </g>
+<line x1="478" y1="338" x2="1114" y2="338" stroke="#27272A"/>
+<text x="478" y="366" class="mono" font-size="11" letter-spacing="1.5" fill="#8B8D98">SELECTED WORK</text>
 
-  <line x1="492" y1="448" x2="1112" y2="448" stroke="#1E293B"/>
-  <text x="492" y="476" class="mono small" fill="#94A3B8">SELECTED SIGNALS</text>
+<g class="sans">
+<text x="478" y="400" font-size="18" font-weight="650" fill="#F5F5F5">01  NyayaMitra</text>
+<text x="720" y="400" font-size="13" fill="#8B8D98">Legal AI / RAG</text>
+<text x="478" y="434" font-size="18" font-weight="650" fill="#F5F5F5">02  91-crpc</text>
+<text x="720" y="434" font-size="13" fill="#8B8D98">Investigation automation</text>
+<text x="478" y="468" font-size="18" font-weight="650" fill="#F5F5F5">03  cp_snippets</text>
+<text x="720" y="468" font-size="13" fill="#8B8D98">Developer tooling</text>
+</g>
 
-  <g class="mono">
-    <rect x="492" y="492" width="128" height="30" rx="15" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.42"/>
-    <text x="556" y="512" text-anchor="middle" class="small" fill="#22D3EE">LLMs</text>
-    <rect x="630" y="492" width="128" height="30" rx="15" fill="#7C3AED" fill-opacity="0.10" stroke="#7C3AED" stroke-opacity="0.42"/>
-    <text x="694" y="512" text-anchor="middle" class="small" fill="#7C3AED">RAG</text>
-    <rect x="768" y="492" width="160" height="30" rx="15" fill="#10B981" fill-opacity="0.10" stroke="#10B981" stroke-opacity="0.42"/>
-    <text x="848" y="512" text-anchor="middle" class="small" fill="#10B981">AGENTIC AI</text>
-    <rect x="938" y="492" width="174" height="30" rx="15" fill="#7C3AED" fill-opacity="0.10" stroke="#7C3AED" stroke-opacity="0.42"/>
-    <text x="1025" y="512" text-anchor="middle" class="small" fill="#7C3AED">LEGAL AI · NLP</text>
-  </g>
-
-  <text x="492" y="550" class="mono small" fill="#10B981">
-    $ echo "Build practical AI. Publish meaningful research. Ship useful products."
-    <animate attributeName="opacity" values="0.65;1;0.65" dur="4.5s" repeatCount="indefinite"/>
-  </text>
+<line x1="478" y1="494" x2="1114" y2="494" stroke="#27272A"/>
+<text x="478" y="522" class="mono" font-size="11" fill="#8B8D98">PYTHON · PYTORCH · TRANSFORMERS · FASTAPI · MILVUS · DOCKER</text>
+<text x="478" y="548" class="mono" font-size="11" fill="#22D3EE">github.com/srinivastls  ·  srinivastls.me</text>
 </svg>
